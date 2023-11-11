@@ -1,0 +1,16 @@
+⚬ Pendulum: https://pendulum.eustace.io
+⚬ PyPD: https://pypi.org/project/pypdf/
+⚬ Icecream: https://github.com/gruns/icecream
+⚬ Loguru: https://github.com/Delgan/loguru
+⚬ Rich: https://rich.readthedocs.io/en/stable...
+⚬ Argparse: https://docs.python.org/3/library/arg...
+⚬ Tqdm: https://github.com/tqdm/tqdm
+⚬ Xarray: https://github.com/pydata/xarray
+⚬ Polar: https://www.pola.rs
+⚬ Seaborn: https://seaborn.pydata.org/tutorial/i...
+⚬ Result: https://pypi.org/project/result/
+⚬ Pydantic: https://docs.pydantic.dev/latest/
+⚬ FastAPI: https://fastapi.tiangolo.com
+⚬ Sqlmodel: https://sqlmodel.tiangolo.com
+⚬ Httpx: https://github.com/encode/httpx
+⚬ Python-dotenv: https://saurabh-kumar.com/python-dotenv/

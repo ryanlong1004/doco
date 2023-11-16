@@ -2,37 +2,37 @@
 
 ## Icon-like
 ```
-Smiley 	☺ 	☺ 	&#x263a;
-Hot Springs 	♨ 	♨ 	&#x2668;
-8-Ball 	➑ 	➑ 	&#x2791;
-White Star 	☆ 	☆ 	&#x2606;
-Black Star 	★ 	★ 	&#x2605;
-White Heart 	♡ 	♡ 	&#x2661;
-Black Heart 	❤ 	❤ 	&#x2764;
-Airplane 	✈ 	✈ 	&#x2708;
-Black Scissors 	✂ 	✂ 	&#x2702;
-White Scissors 	✄ 	✄ 	&#x2704;
-Crown 	♕ 	♕ 	&#x2655;
-Cross 	✝ 	✝ 	&#x271d;
-Black-White Circle 	◑ 	◑ 	&#x25d1;
-Eight Note 	♪ 	♪ 	&#x266a;
-Beamed Eighth Notes 	♫ 	♫ 	&#x266b;
+Smiley 	                        ☺ 	☺ 	&#x263a;
+Hot Springs 	                ♨ 	♨ 	&#x2668;
+8-Ball 	                        ➑ 	➑ 	&#x2791;
+White Star 	                    ☆ 	☆ 	&#x2606;
+Black Star 	                    ★ 	★ 	&#x2605;
+White Heart 	                ♡ 	♡ 	&#x2661;
+Black Heart 	                ❤ 	❤ 	&#x2764;
+Airplane 	                    ✈ 	✈ 	&#x2708;
+Black Scissors 	                ✂ 	✂ 	&#x2702;
+White Scissors 	                ✄ 	✄ 	&#x2704;
+Crown 	                        ♕ 	♕ 	&#x2655;
+Cross 	                        ✝ 	✝ 	&#x271d;
+Black-White Circle 	            ◑ 	◑ 	&#x25d1;
+Eight Note 	                    ♪ 	♪ 	&#x266a;
+Beamed Eighth Notes 	        ♫ 	♫ 	&#x266b;
 Four Balloon-Spoked Asterisk 	✣ 	✣ 	&#x2723;
-Circled White Star 	✪ 	✪ 	&#x272a;
-White Star 	✰ 	✰ 	&#x2730;
-White Four Pointed Star 	✧ 	✧ 	&#x2727;
-Black Four Pointed Star 	✦ 	✦ 	&#x2726;
-Ballot Box Check 	☑ 	☑ 	&#x2611;
-Check Mark 	✔ 	✔ 	&#x2714;
-Cross Mark 	✘ 	✘ 	&#x2718;
-Pencil 	✎ 	✎ 	&#x270e;
-Writing Hand 	✍ 	✍ 	&#x270d;
-Female 	♀ 	♀ 	&#x2640;
-Male 	♂ 	♂ 	&#x2642;
-Black Telephone 	☎ 	☎ 	&#x260e;
-White Telephone 	☏ 	☏ 	&#x260f;
-Envelope 	✉ 	✉ 	&#x2709;
-Telephone Location 	✆ 	✆ 	&#x2706;
+Circled White Star 	            ✪ 	✪ 	&#x272a;
+White Star 	                    ✰ 	✰ 	&#x2730;
+White Four Pointed Star 	    ✧ 	✧ 	&#x2727;
+Black Four Pointed Star 	    ✦ 	✦ 	&#x2726;
+Ballot Box Check 	            ☑ 	☑ 	&#x2611;
+Check Mark 	                    ✔ 	✔ 	&#x2714;
+Cross Mark 	                    ✘ 	✘ 	&#x2718;
+Pencil 	                        ✎ 	✎ 	&#x270e;
+Writing Hand 	                ✍ 	✍ 	&#x270d;
+Female 	                        ♀ 	♀ 	&#x2640;
+Male 	                        ♂ 	♂ 	&#x2642;
+Black Telephone 	            ☎ 	☎ 	&#x260e;
+White Telephone 	            ☏ 	☏ 	&#x260f;
+Envelope 	                    ✉ 	✉ 	&#x2709;
+Telephone Location 	            ✆ 	✆ 	&#x2706;
 ```
 
 ## Arrows
